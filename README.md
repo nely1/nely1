@@ -4,7 +4,7 @@
 <p >I am a developer with a drive to constantly improve. I will learn what is necessary to not just get the job done, but get it done to a higher level. </p>
 
 <div >
-<img margin-top="15px" width="400" height="300px" alt="GIF"   src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+<img margin-top="15px" width="400" height="250px" alt="GIF"   src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
 </div>
 
