@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5fc0ec&width=435&lines=Hi+I'm++Nelson+👋;)](https://github.com/CatalanNathan/)
 
-## About Me
+## About Me 🌍
 <p >I am a developer with a drive to constantly improve. I will learn what is necessary to not just get the job done, but get it done to a higher level. </p>
 
 <div >
