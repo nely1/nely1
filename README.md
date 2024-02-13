@@ -46,6 +46,7 @@
 
 | Name          | Description                                                                                                                             | Link                                               |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| Application Fast Track | A web application that aims to provide jobseekers concise advice on their resume while maintaining recruiters' workflow        | https://www.youtube.com/watch?v=gBIRtE1OJuc |
 | Phlec Travels | A web application that allows users to make albums of their trips and discover and plan new journeys                                    | https://main--courageous-nougat-8dee07.netlify.app |
 | Diabetes@home | A web application that allows for seamless sharing of diabetes related data between clinicians and patients                             | https://spenk-diabetes.onrender.com                |
 | Spice Rush    | A Subway Surfers-style game where the setting is inspired by the movie "Dune"                                                           | https://www.youtube.com/watch?v=NCJqwxaVA9o        |
@@ -56,7 +57,6 @@
 | Name                  | Description                                                                                                              | GitHub                                                       |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Spec-library          | A resource library built to provide teachers and students a better user experience and higher quality of education       | https://github.com/nels-ly/spec-library                      |
-| Application Reviewer  | A web application that aims to provide jobseekers concise advice on their resume while maintaining recruiters' workflow  | Upcoming                                                     |
 | Ankishiro             | A web application for language learning that is an improved version of a previously developed desktop application        | https://github.com/nely1/flashcard-app (desktop app version) |
 <!--
 **nely1/nely1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
